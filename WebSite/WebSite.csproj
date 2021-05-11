@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{055F94DE-B071-45DA-910E-786BCB1C717B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebSite</RootNamespace>
+    <AssemblyName>WebSite</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\ad.gif" />
+    <Content Include="Images\bg.gif" />
+    <Content Include="Images\bg_header_top.gif" />
+    <Content Include="Images\slider.gif" />
+    <Content Include="JavaScript\AddUserJS.js" />
+    <Content Include="JavaScript\jquery-1.11.2.min.js" />
+    <Content Include="JavaScript\jquery-1.9.1.js" />
+    <Content Include="JavaScript\jquery-ui.js" />
+    <Content Include="JavaScript\JSCal.js" />
+    <Content Include="JavaScript\JSCal2.js" />
+    <Content Include="JavaScript\JSChangePass.js" />
+    <Content Include="JavaScript\JSBooking.js" />
+    <Content Include="JavaScript\JScriptCancel.js" />
+    <Content Include="JavaScript\JSUpdate.js" />
+    <Content Include="JavaScript\LoginJS.js" />
+    <Content Include="Pages\AddBus.aspx" />
+    <Content Include="Pages\AddRoute.aspx" />
+    <Content Include="Pages\AddSchedule.aspx" />
+    <Content Include="JavaScript\JSMaster.js" />
+    <Content Include="Pages\BookingLogin.aspx" />
+    <Content Include="Pages\BookingRoute.aspx" />
+    <Content Include="Pages\BookingCost.aspx" />
+    <Content Include="Pages\BookingBus.aspx" />
+    <Content Include="Pages\BookingTicket.aspx" />
+    <Content Include="Pages\Cancel1.aspx" />
+    <Content Include="Pages\cancel2.aspx" />
+    <Content Include="Pages\Cancel3.aspx" />
+    <Content Include="Pages\ChangePass.aspx" />
+    <Content Include="Pages\EditProfile.aspx" />
+    <Content Include="Pages\Error.aspx" />
+    <Content Include="Pages\AddUser.aspx" />
+    <Content Include="LogIn.aspx" />
+    <Content Include="Pages\Home.aspx" />
+    <Content Include="Pages\LogOut.aspx" />
+    <Content Include="Pages\LogOut2.aspx" />
+    <Content Include="Pages\ShowProfile.aspx" />
+    <Content Include="Pages\Success.aspx" />
+    <Content Include="Pages\UserSearch.aspx" />
+    <Content Include="Style\jquery-ui.css" />
+    <Content Include="Style\StyleSheet.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\AddBus.aspx.cs">
+      <DependentUpon>AddBus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\AddBus.aspx.designer.cs">
+      <DependentUpon>AddBus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AddRoute.aspx.cs">
+      <DependentUpon>AddRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\AddRoute.aspx.designer.cs">
+      <DependentUpon>AddRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AddSchedule.aspx.cs">
+      <DependentUpon>AddSchedule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\AddSchedule.aspx.designer.cs">
+      <DependentUpon>AddSchedule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master\log.Master.cs">
+      <DependentUpon>log.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master\log.Master.designer.cs">
+      <DependentUpon>log.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BookingLogin.aspx.cs">
+      <DependentUpon>BookingLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\BookingLogin.aspx.designer.cs">
+      <DependentUpon>BookingLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BookingRoute.aspx.cs">
+      <DependentUpon>BookingRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\BookingRoute.aspx.designer.cs">
+      <DependentUpon>BookingRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BookingCost.aspx.cs">
+      <DependentUpon>BookingCost.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\BookingCost.aspx.designer.cs">
+      <DependentUpon>BookingCost.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BookingBus.aspx.cs">
+      <DependentUpon>BookingBus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\BookingBus.aspx.designer.cs">
+      <DependentUpon>BookingBus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BookingTicket.aspx.cs">
+      <DependentUpon>BookingTicket.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\BookingTicket.aspx.designer.cs">
+      <DependentUpon>BookingTicket.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Cancel1.aspx.cs">
+      <DependentUpon>Cancel1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Cancel1.aspx.designer.cs">
+      <DependentUpon>Cancel1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\cancel2.aspx.cs">
+      <DependentUpon>cancel2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\cancel2.aspx.designer.cs">
+      <DependentUpon>cancel2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Cancel3.aspx.cs">
+      <DependentUpon>Cancel3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Cancel3.aspx.designer.cs">
+      <DependentUpon>Cancel3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ChangePass.aspx.cs">
+      <DependentUpon>ChangePass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ChangePass.aspx.designer.cs">
+      <DependentUpon>ChangePass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EditProfile.aspx.cs">
+      <DependentUpon>EditProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\EditProfile.aspx.designer.cs">
+      <DependentUpon>EditProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AddUser.aspx.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\AddUser.aspx.designer.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master\master.Master.cs">
+      <DependentUpon>master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master\master.Master.designer.cs">
+      <DependentUpon>master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.aspx.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogIn.aspx.designer.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LogOut2.aspx.cs">
+      <DependentUpon>LogOut2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LogOut2.aspx.designer.cs">
+      <DependentUpon>LogOut2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ShowProfile.aspx.cs">
+      <DependentUpon>ShowProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ShowProfile.aspx.designer.cs">
+      <DependentUpon>ShowProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Success.aspx.cs">
+      <DependentUpon>Success.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Success.aspx.designer.cs">
+      <DependentUpon>Success.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UserSearch.aspx.cs">
+      <DependentUpon>UserSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\UserSearch.aspx.designer.cs">
+      <DependentUpon>UserSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pages\ViewSchedule.aspx.cs">
+      <DependentUpon>ViewSchedule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ViewSchedule.aspx.designer.cs">
+      <DependentUpon>ViewSchedule.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master\master.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pages\ViewSchedule.aspx" />
+    <Content Include="web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BAL\BAL.csproj">
+      <Project>{0B4F41A8-434E-48E1-88E4-AAABEC1A1E85}</Project>
+      <Name>BAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{98D8FBA3-E818-4223-B58C-59E8813BF074}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master\log.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pages\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54399</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

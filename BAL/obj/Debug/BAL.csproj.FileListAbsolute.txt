@@ -1,0 +1,106 @@
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\bin\Debug\BAL.dll
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\bin\Debug\BAL.pdb
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\obj\Debug\BAL.dll
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\obj\Debug\BAL.pdb
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\bin\Debug\BE.dll
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\BAL\bin\Debug\BE.pdb
+D:\WebSite\BAL\bin\Debug\BAL.dll
+D:\WebSite\BAL\bin\Debug\BAL.pdb
+D:\WebSite\BAL\bin\Debug\BE.dll
+D:\WebSite\BAL\bin\Debug\BE.pdb
+D:\WebSite\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\WebSite\BAL\obj\Debug\BAL.dll
+D:\WebSite\BAL\obj\Debug\BAL.pdb
+D:\WebSite\BAL\bin\Debug\DAL.dll
+D:\WebSite\BAL\bin\Debug\DAL.pdb
+D:\kaushal\WebSite\BAL\bin\Debug\BAL.dll
+D:\kaushal\WebSite\BAL\bin\Debug\BAL.pdb
+D:\kaushal\WebSite\BAL\bin\Debug\BE.dll
+D:\kaushal\WebSite\BAL\bin\Debug\DAL.dll
+D:\kaushal\WebSite\BAL\bin\Debug\BE.pdb
+D:\kaushal\WebSite\BAL\bin\Debug\DAL.pdb
+D:\kaushal\WebSite\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\kaushal\WebSite\BAL\obj\Debug\BAL.dll
+D:\kaushal\WebSite\BAL\obj\Debug\BAL.pdb
+D:\kaushal\Project\BAL\bin\Debug\BAL.dll
+D:\kaushal\Project\BAL\bin\Debug\BAL.pdb
+D:\kaushal\Project\BAL\bin\Debug\BE.dll
+D:\kaushal\Project\BAL\bin\Debug\DAL.dll
+D:\kaushal\Project\BAL\bin\Debug\BE.pdb
+D:\kaushal\Project\BAL\bin\Debug\DAL.pdb
+D:\kaushal\Project\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\kaushal\Project\BAL\obj\Debug\BAL.dll
+D:\kaushal\Project\BAL\obj\Debug\BAL.pdb
+C:\Users\463508\Desktop\Project+TDK+2\BAL\bin\Debug\BAL.dll
+C:\Users\463508\Desktop\Project+TDK+2\BAL\bin\Debug\BAL.pdb
+C:\Users\463508\Desktop\Project+TDK+2\BAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\Project+TDK+2\BAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\Project+TDK+2\BAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\Project+TDK+2\BAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\Project+TDK+2\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\Project+TDK+2\BAL\obj\Debug\BAL.dll
+C:\Users\463508\Desktop\Project+TDK+2\BAL\obj\Debug\BAL.pdb
+C:\Users\463504\Desktop\3\BAL\bin\Debug\BAL.dll
+C:\Users\463504\Desktop\3\BAL\bin\Debug\BAL.pdb
+C:\Users\463504\Desktop\3\BAL\bin\Debug\BE.dll
+C:\Users\463504\Desktop\3\BAL\bin\Debug\DAL.dll
+C:\Users\463504\Desktop\3\BAL\bin\Debug\BE.pdb
+C:\Users\463504\Desktop\3\BAL\bin\Debug\DAL.pdb
+C:\Users\463504\Desktop\3\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463504\Desktop\3\BAL\obj\Debug\BAL.dll
+C:\Users\463504\Desktop\3\BAL\obj\Debug\BAL.pdb
+C:\Users\463508\Desktop\Last Tunir\BAL\bin\Debug\BAL.dll
+C:\Users\463508\Desktop\Last Tunir\BAL\bin\Debug\BAL.pdb
+C:\Users\463508\Desktop\Last Tunir\BAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\Last Tunir\BAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\Last Tunir\BAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\Last Tunir\BAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\Last Tunir\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\Last Tunir\BAL\obj\Debug\BAL.dll
+C:\Users\463508\Desktop\Last Tunir\BAL\obj\Debug\BAL.pdb
+C:\Users\463508\Desktop\save6\BAL\bin\Debug\BAL.dll
+C:\Users\463508\Desktop\save6\BAL\bin\Debug\BAL.pdb
+C:\Users\463508\Desktop\save6\BAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\save6\BAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\save6\BAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\save6\BAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\save6\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\save6\BAL\obj\Debug\BAL.dll
+C:\Users\463508\Desktop\save6\BAL\obj\Debug\BAL.pdb
+D:\save6\BAL\bin\Debug\BAL.dll
+D:\save6\BAL\bin\Debug\BAL.pdb
+D:\save6\BAL\bin\Debug\BE.dll
+D:\save6\BAL\bin\Debug\DAL.dll
+D:\save6\BAL\bin\Debug\BE.pdb
+D:\save6\BAL\bin\Debug\DAL.pdb
+D:\save6\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\save6\BAL\obj\Debug\BAL.dll
+D:\save6\BAL\obj\Debug\BAL.pdb
+C:\Users\tunir\Desktop\save6\BAL\bin\Debug\BAL.dll
+C:\Users\tunir\Desktop\save6\BAL\bin\Debug\BAL.pdb
+C:\Users\tunir\Desktop\save6\BAL\bin\Debug\BE.dll
+C:\Users\tunir\Desktop\save6\BAL\bin\Debug\DAL.dll
+C:\Users\tunir\Desktop\save6\BAL\bin\Debug\BE.pdb
+C:\Users\tunir\Desktop\save6\BAL\bin\Debug\DAL.pdb
+C:\Users\tunir\Desktop\save6\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\tunir\Desktop\save6\BAL\obj\Debug\BAL.dll
+C:\Users\tunir\Desktop\save6\BAL\obj\Debug\BAL.pdb
+C:\Users\463508\Desktop\save\BAL\bin\Debug\BAL.dll
+C:\Users\463508\Desktop\save\BAL\bin\Debug\BAL.pdb
+C:\Users\463508\Desktop\save\BAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\save\BAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\save\BAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\save\BAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\save\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\save\BAL\obj\Debug\BAL.dll
+C:\Users\463508\Desktop\save\BAL\obj\Debug\BAL.pdb
+C:\Users\tunir\Downloads\final (1)\final\BAL\bin\Debug\BAL.dll
+C:\Users\tunir\Downloads\final (1)\final\BAL\bin\Debug\BAL.pdb
+C:\Users\tunir\Downloads\final (1)\final\BAL\bin\Debug\BE.dll
+C:\Users\tunir\Downloads\final (1)\final\BAL\bin\Debug\DAL.dll
+C:\Users\tunir\Downloads\final (1)\final\BAL\bin\Debug\BE.pdb
+C:\Users\tunir\Downloads\final (1)\final\BAL\bin\Debug\DAL.pdb
+C:\Users\tunir\Downloads\final (1)\final\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\tunir\Downloads\final (1)\final\BAL\obj\Debug\BAL.dll
+C:\Users\tunir\Downloads\final (1)\final\BAL\obj\Debug\BAL.pdb

@@ -1,0 +1,82 @@
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\DAL\bin\Debug\DAL.dll
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\DAL\bin\Debug\DAL.pdb
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\DAL\obj\Debug\DAL.dll
+C:\Users\463508\Documents\Visual Studio 2010\Projects\WebSite\DAL\obj\Debug\DAL.pdb
+D:\WebSite\DAL\bin\Debug\DAL.dll
+D:\WebSite\DAL\bin\Debug\DAL.pdb
+D:\WebSite\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\WebSite\DAL\obj\Debug\DAL.dll
+D:\WebSite\DAL\obj\Debug\DAL.pdb
+D:\WebSite\DAL\bin\Debug\BE.dll
+D:\WebSite\DAL\bin\Debug\BE.pdb
+D:\kaushal\WebSite\DAL\bin\Debug\DAL.dll
+D:\kaushal\WebSite\DAL\bin\Debug\DAL.pdb
+D:\kaushal\WebSite\DAL\bin\Debug\BE.dll
+D:\kaushal\WebSite\DAL\bin\Debug\BE.pdb
+D:\kaushal\WebSite\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\kaushal\WebSite\DAL\obj\Debug\DAL.dll
+D:\kaushal\WebSite\DAL\obj\Debug\DAL.pdb
+D:\kaushal\Project\DAL\bin\Debug\DAL.dll
+D:\kaushal\Project\DAL\bin\Debug\DAL.pdb
+D:\kaushal\Project\DAL\bin\Debug\BE.dll
+D:\kaushal\Project\DAL\bin\Debug\BE.pdb
+D:\kaushal\Project\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\kaushal\Project\DAL\obj\Debug\DAL.dll
+D:\kaushal\Project\DAL\obj\Debug\DAL.pdb
+C:\Users\463508\Desktop\Project+TDK+2\DAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\Project+TDK+2\DAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\Project+TDK+2\DAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\Project+TDK+2\DAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\Project+TDK+2\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\Project+TDK+2\DAL\obj\Debug\DAL.dll
+C:\Users\463508\Desktop\Project+TDK+2\DAL\obj\Debug\DAL.pdb
+C:\Users\463504\Desktop\3\DAL\bin\Debug\DAL.dll
+C:\Users\463504\Desktop\3\DAL\bin\Debug\DAL.pdb
+C:\Users\463504\Desktop\3\DAL\bin\Debug\BE.dll
+C:\Users\463504\Desktop\3\DAL\bin\Debug\BE.pdb
+C:\Users\463504\Desktop\3\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463504\Desktop\3\DAL\obj\Debug\DAL.dll
+C:\Users\463504\Desktop\3\DAL\obj\Debug\DAL.pdb
+C:\Users\463508\Desktop\Last Tunir\DAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\Last Tunir\DAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\Last Tunir\DAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\Last Tunir\DAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\Last Tunir\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\Last Tunir\DAL\obj\Debug\DAL.dll
+C:\Users\463508\Desktop\Last Tunir\DAL\obj\Debug\DAL.pdb
+C:\Users\463508\Desktop\save6\DAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\save6\DAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\save6\DAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\save6\DAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\save6\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\save6\DAL\obj\Debug\DAL.dll
+C:\Users\463508\Desktop\save6\DAL\obj\Debug\DAL.pdb
+D:\save6\DAL\bin\Debug\DAL.dll
+D:\save6\DAL\bin\Debug\DAL.pdb
+D:\save6\DAL\bin\Debug\BE.dll
+D:\save6\DAL\bin\Debug\BE.pdb
+D:\save6\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\save6\DAL\obj\Debug\DAL.dll
+D:\save6\DAL\obj\Debug\DAL.pdb
+C:\Users\tunir\Desktop\save6\DAL\bin\Debug\DAL.dll
+C:\Users\tunir\Desktop\save6\DAL\bin\Debug\DAL.pdb
+C:\Users\tunir\Desktop\save6\DAL\bin\Debug\BE.dll
+C:\Users\tunir\Desktop\save6\DAL\bin\Debug\BE.pdb
+C:\Users\tunir\Desktop\save6\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\tunir\Desktop\save6\DAL\obj\Debug\DAL.dll
+C:\Users\tunir\Desktop\save6\DAL\obj\Debug\DAL.pdb
+C:\Users\463508\Desktop\save\DAL\bin\Debug\DAL.dll
+C:\Users\463508\Desktop\save\DAL\bin\Debug\DAL.pdb
+C:\Users\463508\Desktop\save\DAL\bin\Debug\BE.dll
+C:\Users\463508\Desktop\save\DAL\bin\Debug\BE.pdb
+C:\Users\463508\Desktop\save\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\463508\Desktop\save\DAL\obj\Debug\DAL.dll
+C:\Users\463508\Desktop\save\DAL\obj\Debug\DAL.pdb
+C:\Users\tunir\Downloads\final (1)\final\DAL\bin\Debug\DAL.dll
+C:\Users\tunir\Downloads\final (1)\final\DAL\bin\Debug\DAL.pdb
+C:\Users\tunir\Downloads\final (1)\final\DAL\bin\Debug\BE.dll
+C:\Users\tunir\Downloads\final (1)\final\DAL\bin\Debug\BE.pdb
+C:\Users\tunir\Downloads\final (1)\final\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\tunir\Downloads\final (1)\final\DAL\obj\Debug\DAL.dll
+C:\Users\tunir\Downloads\final (1)\final\DAL\obj\Debug\DAL.pdb

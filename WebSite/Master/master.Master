@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="WebSite.master" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+ <script src="../JavaScript/jquery-1.11.2.min.js" type="text/javascript"></script>
+ <script src="../JavaScript/AddUserJS.js" type="text/javascript"></script>
+ <script src="../JavaScript/JSUpdate.js" type="text/javascript"></script>
+ <script src="../JavaScript/jquery-1.9.1.js" type="text/javascript"></script>
+ <script src="../JavaScript/jquery-ui.js" type="text/javascript"></script>
+ <script src="../JavaScript/JSCal.js" type="text/javascript"></script>
+ <script src="../JavaScript/JSChangePass.js" type="text/javascript"></script>
+ <script src="../JavaScript/JSLogIn.js" type="text/javascript"></script>
+ <script src="../JavaScript/JSMaster.js" type="text/javascript"></script>
+ <link href="../Style/jquery-ui.css" rel="stylesheet" type="text/css" />
+ <link href="../Style/StyleSheet.css" rel="stylesheet" type="text/css" />
+ <script src="../JavaScript/JSBooking.js" type="text/javascript"></script>
+ <script src="../JavaScript/JSCal2.js" type="text/javascript"></script>
+ <script src="../JavaScript/JScriptCancel.js" type="text/javascript"></script>
+ <title>Supriya Travels</title>
+ <asp:ContentPlaceHolder ID="head" runat="server">
+ </asp:ContentPlaceHolder>
+</head>
+<body>
+ <form id="form1" runat="server">
+ <div id="wrapper">
+ <div id="content">
+ <div id="header">
+ <div id="logo">
+ <h1>Supriya Travels</h1>
+ <h4>An ISO 9001:2008 Company</h4><br />
+ </div>
+
+ <%--Menu START--%>
+
+ <ul id="nav">
+ <li>
+ <a href="Home.aspx">Home</a>
+ </li>
+
+ <li>
+ <a href="#">User</a>
+ <ul>
+ <li><a href="AddUser.aspx">Add</a></li>
+ <li><a href="UserSearch.aspx">Update</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="#">Ticket</a>
+
+ <ul>
+ <li><a href="BookingLogin.aspx">Book</a></li>
+ <li><a href="Cancel1.aspx">Cancel</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="#">Master</a>
+ <ul>
+ <li><a href="AddBus.aspx">Add Bus</a></li>
+ <li><a href="AddRoute.aspx">Add Route</a></li>
+ <li><a href="AddSchedule.aspx">Add Schedule</a></li>
+ <li><a href="ViewSchedule.aspx">View Schedule</a></li>
+ 
+ </ul>
+ </li>
+ <li>
+ <a href="ChangePass.aspx">Credentials</a>
+ </li>
+ <li>
+ <a href="LogOut.aspx">Log Out</a>
+ </li>
+</ul>
+
+ <%--Menu End--%>
+
+ </div>
+ <div id="mainimg">
+ </div>
+ <div id="contentarea">
+ <div id="leftbar">
+ <h2><asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+ </asp:ContentPlaceHolder></h2>
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+ </asp:ContentPlaceHolder>
+ <br />
+ </div>
+ <div id="rightbar">
+ <h2><asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+ @ Offers Today
+ </asp:ContentPlaceHolder>
+ </h2>
+ <p><br /><span class="orangetext"><asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+ <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/ad.gif" />
+ </asp:ContentPlaceHolder></span></p>
+ </div>
+ </div>
+ <div id="bottom">
+ <div id="email"><a href="#">Debarshi | Kaushal | Megha | Saikat | Tunir</a></div>
+ <div id="validtext">
+ <p><b>© Cognizant2014</div>
+ </div>
+ </div>
+</div>
+ </form>
+</body>
+</html>
